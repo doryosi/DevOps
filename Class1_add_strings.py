@@ -2,7 +2,7 @@ a = "Hello"
 b = "World"
 ttt = 4
 name = "Dor"
-age = 5
+age = 14
 print(a + " " + b)
 print("Hello " + name)
 print("Hello %s" % name)
